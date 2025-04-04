@@ -1,0 +1,3 @@
+/home/hrry/c_soc_server/cmake-build-debug/CMakeFiles/c_soc_server.dir
+/home/hrry/c_soc_server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hrry/c_soc_server/cmake-build-debug/CMakeFiles/rebuild_cache.dir

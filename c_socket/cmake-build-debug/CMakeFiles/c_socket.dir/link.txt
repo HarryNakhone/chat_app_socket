@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/c_socket.dir/main.c.o -o c_socket  /home/hrry/socket_util/cmake-build-debug/libsocket_util.a 

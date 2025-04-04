@@ -1,0 +1,3 @@
+/home/hrry/c_socket/cmake-build-debug/CMakeFiles/c_socket.dir
+/home/hrry/c_socket/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hrry/c_socket/cmake-build-debug/CMakeFiles/rebuild_cache.dir
