@@ -8,7 +8,7 @@ void readConsoleEntriesAndSendToServer(int socketFD);
 int main(){
 
     int socketFD = createTCPIpv4Socket();
-    struct sockaddr_in *address = createIPv4Address("127.0.0.1", 2000);
+    struct sockaddr_in *address = createIPv4Address("IP of yo choice", 2000);
 
     int result = connect(socketFD, (struct sockaddr *)address, sizeof (*address) );
 
